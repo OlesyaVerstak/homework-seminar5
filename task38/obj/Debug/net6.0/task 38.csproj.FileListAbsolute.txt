@@ -1,0 +1,15 @@
+C:\Users\Genry\Desktop\Програмирование GeekBrains\дз Семинар 5\task 38\obj\Debug\net6.0\task 38.csproj.AssemblyReference.cache
+C:\Users\Genry\Desktop\Програмирование GeekBrains\дз Семинар 5\task 38\obj\Debug\net6.0\task 38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genry\Desktop\Програмирование GeekBrains\дз Семинар 5\task 38\obj\Debug\net6.0\task 38.AssemblyInfoInputs.cache
+C:\Users\Genry\Desktop\Програмирование GeekBrains\дз Семинар 5\task 38\obj\Debug\net6.0\task 38.AssemblyInfo.cs
+C:\Users\Genry\Desktop\Програмирование GeekBrains\дз Семинар 5\task 38\obj\Debug\net6.0\task 38.csproj.CoreCompileInputs.cache
+C:\Users\Genry\Desktop\Програмирование GeekBrains\дз Семинар 5\task 38\bin\Debug\net6.0\task 38.exe
+C:\Users\Genry\Desktop\Програмирование GeekBrains\дз Семинар 5\task 38\bin\Debug\net6.0\task 38.deps.json
+C:\Users\Genry\Desktop\Програмирование GeekBrains\дз Семинар 5\task 38\bin\Debug\net6.0\task 38.runtimeconfig.json
+C:\Users\Genry\Desktop\Програмирование GeekBrains\дз Семинар 5\task 38\bin\Debug\net6.0\task 38.dll
+C:\Users\Genry\Desktop\Програмирование GeekBrains\дз Семинар 5\task 38\bin\Debug\net6.0\task 38.pdb
+C:\Users\Genry\Desktop\Програмирование GeekBrains\дз Семинар 5\task 38\obj\Debug\net6.0\task 38.dll
+C:\Users\Genry\Desktop\Програмирование GeekBrains\дз Семинар 5\task 38\obj\Debug\net6.0\refint\task 38.dll
+C:\Users\Genry\Desktop\Програмирование GeekBrains\дз Семинар 5\task 38\obj\Debug\net6.0\task 38.pdb
+C:\Users\Genry\Desktop\Програмирование GeekBrains\дз Семинар 5\task 38\obj\Debug\net6.0\task 38.genruntimeconfig.cache
+C:\Users\Genry\Desktop\Програмирование GeekBrains\дз Семинар 5\task 38\obj\Debug\net6.0\ref\task 38.dll
